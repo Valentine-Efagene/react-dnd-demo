@@ -1,2 +1,1 @@
-# react-dnd-demo
-Created with CodeSandbox
+Note: Had to remove StrictMode because of id error https://stackoverflow.com/a/72666171/6132438
